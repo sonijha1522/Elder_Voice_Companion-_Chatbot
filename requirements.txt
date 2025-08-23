@@ -1,0 +1,12 @@
+google-genai
+pandas
+numpy
+python-dotenv
+langchain
+chromadb
+streamlit
+google-generativeai
+pyaudio
+pipwin
+SpeechRecognition
+gTTS
